@@ -2,6 +2,7 @@
 id: environment-setup
 title: 搭建开发环境
 hide_table_of_contents: true
+select:false
 ---
 
 import Tabs from '@theme/Tabs'; import TabItem from '@theme/TabItem'; import constants from '@site/core/TabsConstants';
