@@ -185,6 +185,6 @@ If you're integrating React Native into an existing project, you'll want to skip
 
 </TabItem>
 </Tabs>
-
+..
 </TabItem>
 </Tabs>
